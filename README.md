@@ -10,7 +10,7 @@
  <br>
  ● CSS
  <br>
- ● JavaScript
+ 
  
  <h3>📌 DevOps</h3>
  
