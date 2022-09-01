@@ -2,6 +2,7 @@
 
 <p>Project developed during the Fulstack development course to improve theoretical knowledge in a practical and efficient way using HTML and CSS technologies.</p>
 <p>Fully responsive website! It adjusts perfectly to any resolution in a harmonic way, giving the same reading experience to the user, regardless of the device from which it is being accessed.</p>
+Deploy: https://jecsm-easy-shopping.netlify.app/
 <br>
 
  <h2>💻 Technologies</h3> 
