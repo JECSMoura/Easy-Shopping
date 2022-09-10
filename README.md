@@ -1,6 +1,6 @@
 # Easy-Shopping
 
-<div aling=c"center">
+<div aling="center">
 <img height="300em" height="300em" src="https://github.com/JECSMoura/Easy-Shopping/blob/master/assets/desktop.png?raw=true">
 <img height="300em" height="300em" src="https://github.com/JECSMoura/Easy-Shopping/blob/master/assets/mobile.png?raw=true">
 </div>
